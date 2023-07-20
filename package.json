@@ -8,10 +8,6 @@
     "start": "node index",
     "build": "echo \"Aquí va el comando de compilación o preparación\""
   },
-  "repository": {
-    "type": "git",
-    "url": "https://elvyscruz@dev.azure.com/elvyscruz/practica2p/_git/practica2p"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
